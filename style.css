@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 1 0 0;
+  background-color: rgba(212, 75, 75, 0.5);
+}
